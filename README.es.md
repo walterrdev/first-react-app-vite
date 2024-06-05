@@ -2,6 +2,16 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/walterrdev/first-react-app-vite/blob/main/README.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/walterrdev/first-react-app-vite/blob/main/README.es.md)
 
+## Stack de tecnologias<br>
+* React: 18.2
+* React DOM: 18.2
+* Node: 18.18
+* Vite: 5.2
+* Jest: 29.7
+* Babel: 7.24
+* React Testing Library: 15.0
+* Gestor de paquetes: Yarn
+
 ## Descripción<br>
 Aplicación sencilla hecha en ReactJS usando Vite la cual muestra en la vista HTML un título, subtitulo y párrafo enviados desde el componente.
 
